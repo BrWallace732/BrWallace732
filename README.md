@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrWallace732
 - 👀 I’m interested in everything related with tech
-- 🌱 I’m currently learning a javascript, nodejs, mongodb and react
+- 🌱 I’m currently learning a javascript, react, nodejs and mongodb
 - 💞️ I’m looking to collaborate on anything 
 - 📫 My current e-mail for reach me is Bruno_wallace@icloud.com ...
 
